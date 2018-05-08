@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\bin\Debug\netcoreapp2.0\LinkedStack.deps.json
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\bin\Debug\netcoreapp2.0\LinkedStack.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\bin\Debug\netcoreapp2.0\LinkedStack.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\bin\Debug\netcoreapp2.0\LinkedStack.dll
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\bin\Debug\netcoreapp2.0\LinkedStack.pdb
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedStack.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedStack.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedStack.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedStack.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedStack.dll
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedStack.pdb

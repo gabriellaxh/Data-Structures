@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Data Structures\CalculateSequenceQueue\bin\Debug\netcoreapp2.0\CalculateSequenceQueue.deps.json
+C:\Users\Gabriela\source\repos\Data Structures\CalculateSequenceQueue\bin\Debug\netcoreapp2.0\CalculateSequenceQueue.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Data Structures\CalculateSequenceQueue\bin\Debug\netcoreapp2.0\CalculateSequenceQueue.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Data Structures\CalculateSequenceQueue\bin\Debug\netcoreapp2.0\CalculateSequenceQueue.dll
+C:\Users\Gabriela\source\repos\Data Structures\CalculateSequenceQueue\bin\Debug\netcoreapp2.0\CalculateSequenceQueue.pdb
+C:\Users\Gabriela\source\repos\Data Structures\CalculateSequenceQueue\obj\Debug\netcoreapp2.0\CalculateSequenceQueue.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\CalculateSequenceQueue\obj\Debug\netcoreapp2.0\CalculateSequenceQueue.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\CalculateSequenceQueue\obj\Debug\netcoreapp2.0\CalculateSequenceQueue.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Data Structures\CalculateSequenceQueue\obj\Debug\netcoreapp2.0\CalculateSequenceQueue.dll
+C:\Users\Gabriela\source\repos\Data Structures\CalculateSequenceQueue\obj\Debug\netcoreapp2.0\CalculateSequenceQueue.pdb
+C:\Users\Gabriela\source\repos\Data Structures\CalculateSequenceQueue\obj\Debug\netcoreapp2.0\CalculateSequenceQueue.csprojResolveAssemblyReference.cache

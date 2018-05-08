@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Data Structures\SortWords\obj\Debug\netcoreapp2.0\SortWords.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\SortWords\obj\Debug\netcoreapp2.0\SortWords.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\SortWords\obj\Debug\netcoreapp2.0\SortWords.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\SortWords\obj\Debug\netcoreapp2.0\SortWords.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Data Structures\SortWords\bin\Debug\netcoreapp2.0\SortWords.deps.json
+C:\Users\Gabriela\source\repos\Data Structures\SortWords\bin\Debug\netcoreapp2.0\SortWords.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Data Structures\SortWords\bin\Debug\netcoreapp2.0\SortWords.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Data Structures\SortWords\bin\Debug\netcoreapp2.0\SortWords.dll
+C:\Users\Gabriela\source\repos\Data Structures\SortWords\bin\Debug\netcoreapp2.0\SortWords.pdb
+C:\Users\Gabriela\source\repos\Data Structures\SortWords\obj\Debug\netcoreapp2.0\SortWords.dll
+C:\Users\Gabriela\source\repos\Data Structures\SortWords\obj\Debug\netcoreapp2.0\SortWords.pdb

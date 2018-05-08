@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Data Structures\ImplementReverseList\bin\Debug\netcoreapp2.0\ImplementReversedList.deps.json
+C:\Users\Gabriela\source\repos\Data Structures\ImplementReverseList\bin\Debug\netcoreapp2.0\ImplementReversedList.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Data Structures\ImplementReverseList\bin\Debug\netcoreapp2.0\ImplementReversedList.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Data Structures\ImplementReverseList\bin\Debug\netcoreapp2.0\ImplementReversedList.dll
+C:\Users\Gabriela\source\repos\Data Structures\ImplementReverseList\bin\Debug\netcoreapp2.0\ImplementReversedList.pdb
+C:\Users\Gabriela\source\repos\Data Structures\ImplementReverseList\obj\Debug\netcoreapp2.0\ImplementReversedList.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\ImplementReverseList\obj\Debug\netcoreapp2.0\ImplementReversedList.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\ImplementReverseList\obj\Debug\netcoreapp2.0\ImplementReversedList.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\ImplementReverseList\obj\Debug\netcoreapp2.0\ImplementReversedList.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Data Structures\ImplementReverseList\obj\Debug\netcoreapp2.0\ImplementReversedList.dll
+C:\Users\Gabriela\source\repos\Data Structures\ImplementReverseList\obj\Debug\netcoreapp2.0\ImplementReversedList.pdb

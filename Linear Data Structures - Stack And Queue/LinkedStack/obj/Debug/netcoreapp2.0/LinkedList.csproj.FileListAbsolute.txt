@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.deps.json
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.dll
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\bin\Debug\netcoreapp2.0\LinkedList.pdb
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.dll
+C:\Users\Gabriela\source\repos\Data Structures\LinkedList\obj\Debug\netcoreapp2.0\LinkedList.pdb

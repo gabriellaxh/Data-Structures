@@ -1,0 +1,10 @@
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.dll
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.Tests.pdb
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.exe
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList.Tests\bin\Debug\DoublyLinkedList.pdb
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.csproj.CopyComplete
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.dll
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList.Tests\obj\Debug\DoublyLinkedList.Tests.pdb

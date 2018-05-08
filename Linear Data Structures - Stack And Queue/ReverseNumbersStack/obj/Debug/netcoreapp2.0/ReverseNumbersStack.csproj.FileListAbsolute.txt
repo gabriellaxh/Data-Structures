@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Data Structures\ReverseNumbersStack\bin\Debug\netcoreapp2.0\ReverseNumbersStack.deps.json
+C:\Users\Gabriela\source\repos\Data Structures\ReverseNumbersStack\bin\Debug\netcoreapp2.0\ReverseNumbersStack.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Data Structures\ReverseNumbersStack\bin\Debug\netcoreapp2.0\ReverseNumbersStack.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Data Structures\ReverseNumbersStack\bin\Debug\netcoreapp2.0\ReverseNumbersStack.dll
+C:\Users\Gabriela\source\repos\Data Structures\ReverseNumbersStack\bin\Debug\netcoreapp2.0\ReverseNumbersStack.pdb
+C:\Users\Gabriela\source\repos\Data Structures\ReverseNumbersStack\obj\Debug\netcoreapp2.0\ReverseNumbersStack.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\ReverseNumbersStack\obj\Debug\netcoreapp2.0\ReverseNumbersStack.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\ReverseNumbersStack\obj\Debug\netcoreapp2.0\ReverseNumbersStack.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\ReverseNumbersStack\obj\Debug\netcoreapp2.0\ReverseNumbersStack.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Data Structures\ReverseNumbersStack\obj\Debug\netcoreapp2.0\ReverseNumbersStack.dll
+C:\Users\Gabriela\source\repos\Data Structures\ReverseNumbersStack\obj\Debug\netcoreapp2.0\ReverseNumbersStack.pdb

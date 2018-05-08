@@ -1,0 +1,6 @@
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\Gabriela\Downloads\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

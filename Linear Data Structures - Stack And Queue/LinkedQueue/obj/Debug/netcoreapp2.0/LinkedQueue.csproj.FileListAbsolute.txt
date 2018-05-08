@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Data Structures\LinkedQueue\obj\Debug\netcoreapp2.0\LinkedQueue.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\LinkedQueue\obj\Debug\netcoreapp2.0\LinkedQueue.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\LinkedQueue\obj\Debug\netcoreapp2.0\LinkedQueue.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\LinkedQueue\obj\Debug\netcoreapp2.0\LinkedQueue.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Data Structures\LinkedQueue\bin\Debug\netcoreapp2.0\LinkedQueue.deps.json
+C:\Users\Gabriela\source\repos\Data Structures\LinkedQueue\bin\Debug\netcoreapp2.0\LinkedQueue.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Data Structures\LinkedQueue\bin\Debug\netcoreapp2.0\LinkedQueue.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Data Structures\LinkedQueue\bin\Debug\netcoreapp2.0\LinkedQueue.dll
+C:\Users\Gabriela\source\repos\Data Structures\LinkedQueue\bin\Debug\netcoreapp2.0\LinkedQueue.pdb
+C:\Users\Gabriela\source\repos\Data Structures\LinkedQueue\obj\Debug\netcoreapp2.0\LinkedQueue.dll
+C:\Users\Gabriela\source\repos\Data Structures\LinkedQueue\obj\Debug\netcoreapp2.0\LinkedQueue.pdb

@@ -1,0 +1,10 @@
+C:\Users\Gabriela\source\repos\Data Structures\CountOfOccurrences\bin\Debug\netcoreapp2.0\CountOfOccurrences.deps.json
+C:\Users\Gabriela\source\repos\Data Structures\CountOfOccurrences\bin\Debug\netcoreapp2.0\CountOfOccurrences.runtimeconfig.json
+C:\Users\Gabriela\source\repos\Data Structures\CountOfOccurrences\bin\Debug\netcoreapp2.0\CountOfOccurrences.runtimeconfig.dev.json
+C:\Users\Gabriela\source\repos\Data Structures\CountOfOccurrences\bin\Debug\netcoreapp2.0\CountOfOccurrences.dll
+C:\Users\Gabriela\source\repos\Data Structures\CountOfOccurrences\bin\Debug\netcoreapp2.0\CountOfOccurrences.pdb
+C:\Users\Gabriela\source\repos\Data Structures\CountOfOccurrences\obj\Debug\netcoreapp2.0\CountOfOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\CountOfOccurrences\obj\Debug\netcoreapp2.0\CountOfOccurrences.AssemblyInfoInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\CountOfOccurrences\obj\Debug\netcoreapp2.0\CountOfOccurrences.AssemblyInfo.cs
+C:\Users\Gabriela\source\repos\Data Structures\CountOfOccurrences\obj\Debug\netcoreapp2.0\CountOfOccurrences.dll
+C:\Users\Gabriela\source\repos\Data Structures\CountOfOccurrences\obj\Debug\netcoreapp2.0\CountOfOccurrences.pdb
