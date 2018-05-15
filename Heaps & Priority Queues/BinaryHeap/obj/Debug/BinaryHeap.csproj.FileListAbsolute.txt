@@ -1,0 +1,6 @@
+C:\Users\Gabriela\source\repos\Data Structures\Heaps & Priority Queues\BinaryHeap\bin\Debug\BinaryHeap.exe
+C:\Users\Gabriela\source\repos\Data Structures\Heaps & Priority Queues\BinaryHeap\bin\Debug\BinaryHeap.pdb
+C:\Users\Gabriela\source\repos\Data Structures\Heaps & Priority Queues\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\Heaps & Priority Queues\BinaryHeap\obj\Debug\BinaryHeap.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\Heaps & Priority Queues\BinaryHeap\obj\Debug\BinaryHeap.exe
+C:\Users\Gabriela\source\repos\Data Structures\Heaps & Priority Queues\BinaryHeap\obj\Debug\BinaryHeap.pdb

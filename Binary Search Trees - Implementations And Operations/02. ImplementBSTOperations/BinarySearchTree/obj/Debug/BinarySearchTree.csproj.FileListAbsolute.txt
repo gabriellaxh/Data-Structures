@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\Data Structures\Binary Search Trees - Implementations And Operations\02. ImplementBSTOperations\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+C:\Users\Gabriela\source\repos\Data Structures\Binary Search Trees - Implementations And Operations\02. ImplementBSTOperations\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+C:\Users\Gabriela\source\repos\Data Structures\Binary Search Trees - Implementations And Operations\02. ImplementBSTOperations\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+C:\Users\Gabriela\source\repos\Data Structures\Binary Search Trees - Implementations And Operations\02. ImplementBSTOperations\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\Binary Search Trees - Implementations And Operations\02. ImplementBSTOperations\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\Binary Search Trees - Implementations And Operations\02. ImplementBSTOperations\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+C:\Users\Gabriela\source\repos\Data Structures\Binary Search Trees - Implementations And Operations\02. ImplementBSTOperations\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
