@@ -1,7 +1,0 @@
-C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\RedBlackTree\bin\Debug\RedBlackTree.exe.config
-C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\RedBlackTree\bin\Debug\RedBlackTree.exe
-C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\RedBlackTree\bin\Debug\RedBlackTree.pdb
-C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\RedBlackTree\obj\Debug\RedBlackTree.csprojResolveAssemblyReference.cache
-C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\RedBlackTree\obj\Debug\RedBlackTree.csproj.CoreCompileInputs.cache
-C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\RedBlackTree\obj\Debug\RedBlackTree.exe
-C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\RedBlackTree\obj\Debug\RedBlackTree.pdb
