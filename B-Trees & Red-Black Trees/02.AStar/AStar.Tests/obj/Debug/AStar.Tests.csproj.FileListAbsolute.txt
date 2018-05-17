@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar.Tests\bin\Debug\AStar.Tests.dll
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar.Tests\bin\Debug\AStar.Tests.pdb
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar.Tests\bin\Debug\AStar.exe
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar.Tests\bin\Debug\AStar.pdb
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar.Tests\bin\Debug\AStar.exe.config
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar.Tests\obj\Debug\AStar.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar.Tests\obj\Debug\AStar.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar.Tests\obj\Debug\AStar.Tests.csproj.CopyComplete
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar.Tests\obj\Debug\AStar.Tests.dll
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar.Tests\obj\Debug\AStar.Tests.pdb

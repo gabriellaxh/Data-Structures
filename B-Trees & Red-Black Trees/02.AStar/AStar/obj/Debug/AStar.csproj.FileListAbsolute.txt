@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar\bin\Debug\AStar.exe.config
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar\bin\Debug\AStar.exe
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar\bin\Debug\AStar.pdb
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar\obj\Debug\AStar.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar\obj\Debug\AStar.exe
+C:\Users\Gabriela\source\repos\Data Structures\B-Trees & Red-Black Trees\02.AStar\AStar\obj\Debug\AStar.pdb
