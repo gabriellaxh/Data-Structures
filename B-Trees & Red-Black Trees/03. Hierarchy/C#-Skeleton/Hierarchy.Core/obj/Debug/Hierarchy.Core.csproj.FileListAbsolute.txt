@@ -1,0 +1,10 @@
+C:\Users\Gabriela\Downloads\06. Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe.config
+C:\Users\Gabriela\Downloads\06. Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe
+C:\Users\Gabriela\Downloads\06. Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\Hierarchy.Core.pdb
+C:\Users\Gabriela\Downloads\06. Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Gabriela\Downloads\06. Hierarchy\C#-Skeleton\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Gabriela\Downloads\06. Hierarchy\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\Downloads\06. Hierarchy\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Downloads\06. Hierarchy\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.csproj.CopyComplete
+C:\Users\Gabriela\Downloads\06. Hierarchy\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.exe
+C:\Users\Gabriela\Downloads\06. Hierarchy\C#-Skeleton\Hierarchy.Core\obj\Debug\Hierarchy.Core.pdb
