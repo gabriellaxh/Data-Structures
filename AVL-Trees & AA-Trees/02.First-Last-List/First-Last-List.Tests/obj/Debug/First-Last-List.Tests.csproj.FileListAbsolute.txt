@@ -1,0 +1,13 @@
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.dll
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\bin\Debug\First-Last-List.Tests.pdb
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\bin\Debug\First-Last-List.exe
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\bin\Debug\First-Last-List.pdb
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\bin\Debug\First-Last-List.exe.config
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.csproj.CopyComplete
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.dll
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List.Tests\obj\Debug\First-Last-List.Tests.pdb

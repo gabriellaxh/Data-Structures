@@ -1,0 +1,11 @@
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Lab-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.Tests.dll
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Lab-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.Tests.pdb
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Lab-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.exe
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Lab-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Lab-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.pdb
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Lab-Skeleton\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.exe.config
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Lab-Skeleton\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Lab-Skeleton\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Lab-Skeleton\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csproj.CopyComplete
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Lab-Skeleton\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.dll
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Lab-Skeleton\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.pdb

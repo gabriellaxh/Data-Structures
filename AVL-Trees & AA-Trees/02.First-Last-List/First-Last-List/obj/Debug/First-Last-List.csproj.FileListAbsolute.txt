@@ -1,0 +1,7 @@
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List\obj\Debug\First-Last-List.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List\obj\Debug\First-Last-List.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List\bin\Debug\First-Last-List.exe.config
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List\bin\Debug\First-Last-List.exe
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List\bin\Debug\First-Last-List.pdb
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List\obj\Debug\First-Last-List.exe
+C:\Users\Gabriela\Downloads\07. Data-Structures-AVL-Trees-AA-Trees-CSharp-Homework-First-Last-List-Skeleton\First-Last-List\First-Last-List\obj\Debug\First-Last-List.pdb
