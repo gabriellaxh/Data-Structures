@@ -52,6 +52,7 @@ public class AVL<T> where T : IComparable<T>
             else
             {
                 Node<T> min = this.GetMin(node.Right);
+                min.Right = this.DeleteMin(node.Right);
                 min.Left = node.Left;
                 node = min;
             }
@@ -82,11 +83,8 @@ public class AVL<T> where T : IComparable<T>
         if (node.Left == null)
             return node.Right;
 
-        while (node.Left != null)
-        {
-            node.Left = this.DeleteMin(node.Left);
-        }
-        node = this.Balance(node);
+
+        node.Left = this.DeleteMin(node.Left);
 
         return node;
     }
