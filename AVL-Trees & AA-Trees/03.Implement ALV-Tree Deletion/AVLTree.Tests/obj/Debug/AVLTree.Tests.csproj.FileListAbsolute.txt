@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Data Structures\AVL-Trees & AA-Trees\03.Implement ALV-Tree Deletion\AVLTree.Tests\bin\Debug\AVLTree.Tests.dll
+C:\Users\Gabriela\source\repos\Data Structures\AVL-Trees & AA-Trees\03.Implement ALV-Tree Deletion\AVLTree.Tests\bin\Debug\AVLTree.Tests.pdb
+C:\Users\Gabriela\source\repos\Data Structures\AVL-Trees & AA-Trees\03.Implement ALV-Tree Deletion\AVLTree.Tests\bin\Debug\AVLTree.exe
+C:\Users\Gabriela\source\repos\Data Structures\AVL-Trees & AA-Trees\03.Implement ALV-Tree Deletion\AVLTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gabriela\source\repos\Data Structures\AVL-Trees & AA-Trees\03.Implement ALV-Tree Deletion\AVLTree.Tests\bin\Debug\AVLTree.pdb
+C:\Users\Gabriela\source\repos\Data Structures\AVL-Trees & AA-Trees\03.Implement ALV-Tree Deletion\AVLTree.Tests\bin\Debug\AVLTree.exe.config
+C:\Users\Gabriela\source\repos\Data Structures\AVL-Trees & AA-Trees\03.Implement ALV-Tree Deletion\AVLTree.Tests\obj\Debug\AVLTree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\AVL-Trees & AA-Trees\03.Implement ALV-Tree Deletion\AVLTree.Tests\obj\Debug\AVLTree.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\AVL-Trees & AA-Trees\03.Implement ALV-Tree Deletion\AVLTree.Tests\obj\Debug\AVLTree.Tests.csproj.CopyComplete
+C:\Users\Gabriela\source\repos\Data Structures\AVL-Trees & AA-Trees\03.Implement ALV-Tree Deletion\AVLTree.Tests\obj\Debug\AVLTree.Tests.dll
+C:\Users\Gabriela\source\repos\Data Structures\AVL-Trees & AA-Trees\03.Implement ALV-Tree Deletion\AVLTree.Tests\obj\Debug\AVLTree.Tests.pdb
