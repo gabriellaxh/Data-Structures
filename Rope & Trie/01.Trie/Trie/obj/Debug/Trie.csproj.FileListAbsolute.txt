@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\Data Structures\Rope & Trie\01.Trie\Trie\bin\Debug\Trie.exe.config
+C:\Users\Gabriela\source\repos\Data Structures\Rope & Trie\01.Trie\Trie\bin\Debug\Trie.exe
+C:\Users\Gabriela\source\repos\Data Structures\Rope & Trie\01.Trie\Trie\bin\Debug\Trie.pdb
+C:\Users\Gabriela\source\repos\Data Structures\Rope & Trie\01.Trie\Trie\obj\Debug\Trie.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\Rope & Trie\01.Trie\Trie\obj\Debug\Trie.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\Rope & Trie\01.Trie\Trie\obj\Debug\Trie.exe
+C:\Users\Gabriela\source\repos\Data Structures\Rope & Trie\01.Trie\Trie\obj\Debug\Trie.pdb
