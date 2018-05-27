@@ -1,0 +1,11 @@
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree\IntervalTree.Tests\bin\Debug\IntervalTree.Tests.dll
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree\IntervalTree.Tests\bin\Debug\IntervalTree.Tests.pdb
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree\IntervalTree.Tests\bin\Debug\IntervalTree.exe
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree\IntervalTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree\IntervalTree.Tests\bin\Debug\IntervalTree.pdb
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree\IntervalTree.Tests\bin\Debug\IntervalTree.exe.config
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.csproj.CopyComplete
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.dll
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.pdb
