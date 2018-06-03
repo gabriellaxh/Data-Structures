@@ -1,0 +1,7 @@
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\K-d Tree\KdTree\bin\Debug\KdTree.exe.config
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\K-d Tree\KdTree\bin\Debug\KdTree.exe
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\K-d Tree\KdTree\bin\Debug\KdTree.pdb
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\K-d Tree\KdTree\obj\Debug\KdTree.csprojResolveAssemblyReference.cache
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\K-d Tree\KdTree\obj\Debug\KdTree.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\K-d Tree\KdTree\obj\Debug\KdTree.exe
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\K-d Tree\KdTree\obj\Debug\KdTree.pdb

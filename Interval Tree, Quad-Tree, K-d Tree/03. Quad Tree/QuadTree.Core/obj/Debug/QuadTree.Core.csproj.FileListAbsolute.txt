@@ -1,0 +1,5 @@
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\03. Quad Tree\QuadTree.Core\obj\Debug\QuadTree.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\03. Quad Tree\QuadTree.Core\bin\Debug\QuadTree.Core.exe
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\03. Quad Tree\QuadTree.Core\bin\Debug\QuadTree.Core.pdb
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\03. Quad Tree\QuadTree.Core\obj\Debug\QuadTree.Core.exe
+C:\Users\Gabriela\source\repos\Data Structures\Interval Tree, Quad-Tree,K-d Tree\03. Quad Tree\QuadTree.Core\obj\Debug\QuadTree.Core.pdb
